@@ -1,0 +1,11 @@
+gene,elisa_available,vendors,sample_type,sensitivity,range,approx_cost_usd,pmid_blood_evidence
+OLFM4,True,MyBioSource/Novus/Innovative Research,"serum, plasma, cell culture supernatant",62.5 pg/ml,62.5-4000 pg/ml,400.0,26416558
+REG4,True,Abnova/RayBiotech/MyBioSource,"serum, plasma",0.1 ng/ml,0.156-10 ng/ml,450.0,21443133
+ITLN1,True,BioVendor/R&D Systems/Millipore,"serum, plasma (EDTA/heparin)",0.5 ng/ml,0.5-64 ng/ml,350.0,metabolic literature
+PRAP1,False,"MyBioSource (research-grade, limited validation)",serum (claimed),unknown,unknown,,HPA Olink detection only
+ANPEP,True,R&D Systems/Abcam (as CD13/sAPN),"serum, plasma",0.3 ng/ml,0.3-20 ng/ml,500.0,sAPN in liver fibrosis
+MUC17,False,None commercial,N/A,N/A,N/A,,none
+CLDN4,False,Limited (research only),tissue lysate only,N/A,N/A,,none in blood
+PSCA,True,MyBioSource/Abnova,"serum, plasma",0.1 ng/ml,0.156-10 ng/ml,450.0,prostate cancer context
+FABP1,True,Hycult Biotech/R&D (as L-FABP),"serum, plasma, urine",0.1 ng/ml,0.16-10 ng/ml,400.0,liver/kidney injury marker
+CPS1,False,MyBioSource (limited),serum (limited data),unknown,unknown,,HCC context only
